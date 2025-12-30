@@ -17,7 +17,7 @@ import {
     DropdownMenuSubTrigger,
     DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu"
-import {useRouter} from "next/dist/client/components/navigation";
+import {useRouter} from "next/navigation";
 import NavItems from "@/components/NavItems";
 
 
